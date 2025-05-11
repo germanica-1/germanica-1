@@ -1,16 +1,90 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Kirvy (@germanica-1).</h1>
 
-<!--
-**germanica-1/germanica-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">About Me</h3>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Fingerprint Attendance with Control System (F.A.C.S)](https://github.com/germanica-1/Biometric-Attendance)  
+  <br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👀 I’m interested in **programming and exploring different ways to maximize workflow.**  
+  <br />
+
+- 🌱 I’m still studying and learning **Tailwind, QtDesigner, Bootstrap, Databases, Java, Python, MERN Stack, and learning different topics while strengthening my skills.**  
+  <br />
+
+- 📫 How to reach me: **Contact me through my email: kirvyatbusiness@gmail.com**  
+  <br />
+
+<h3 align="left">Languages and Tools:</h3>
+
+<table>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5" />
+      <br />HTML5
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3" />
+      <br />CSS3
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
+      <br />Bootstrap
+    </td>
+    <td align="center" width="80">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind" />
+      <br />Tailwind
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java" />
+      <br />Java
+    </td>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+      <br />Python
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+      <br />MySQL
+    </td>
+    <td align="center" width="80">
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" alt="SQLite" />
+      <br />SQLite
+    </td>
+    <td align="center" width="80">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" width="40" height="40" alt="Qt" />
+      <br />Qt
+    </td>
+    <td align="center" width="80">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+      <br />Firebase
+    </td>
+    <td align="center" width="80">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="80">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma" />
+      <br />Figma
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="80">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" width="40" height="40" alt="BackboneJS" />
+      <br />BackboneJS
+    </td>
+  </tr>
+</table>
+
+<h3 align="left">Github Stats:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=germanica-1&show_icons=true&theme=dark&locale=en&layout=compact" width="330" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=germanica-1&theme=dark" width="330" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=germanica-1&show_icons=true&theme=dark&locale=en" width="400" />
+</p>
