@@ -69,12 +69,6 @@
       <br />Figma
     </td>
   </tr>
-  <tr>
-    <td align="center" width="80">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" width="40" height="40" alt="BackboneJS" />
-      <br />BackboneJS
-    </td>
-  </tr>
 </table>
 
 <h3 align="left">Github Stats:</h3>
