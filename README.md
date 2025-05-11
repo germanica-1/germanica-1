@@ -11,7 +11,7 @@
 - 🌱 I’m still studying and learning **Tailwind, QtDesigner, Bootstrap, Databases, Java, Python, MERN Stack, and learning different topics while strengthening my skills.**  
   <br />
 
-- 📫 How to reach me: **Contact me through my email: kirvyatbusiness@gmail.com**  
+- 📫 How to reach me: **Contact me through my email: kirvyatbusiness2@gmail.com**  
   <br />
 
 <h3 align="left">Languages and Tools:</h3>
