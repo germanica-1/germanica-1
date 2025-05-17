@@ -8,7 +8,7 @@
 - 👀 I’m interested in **programming and exploring different ways to maximize workflow.**  
   <br />
 
-- 🌱 I’m still studying and learning **Tailwind, QtDesigner, Bootstrap, Databases, Java, Python, MERN Stack, and learning different topics while strengthening my skills.**  
+- 🌱 I’m still studying and learning **Tailwind, QtDesigner, TailwindCSS, React, Databases, Java, Python, CRUD Projects, and learning different topics while strengthening my skills.**  
   <br />
 
 - 📫 How to reach me: **Contact me through my email: kirvyatbusiness2@gmail.com**  
