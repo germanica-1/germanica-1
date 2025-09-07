@@ -2,7 +2,7 @@
 
 <h3 align="center">About Me</h3>
 
-- 🔭 I’m currently working on [Fingerprint Attendance with Control System (F.A.C.S)](https://github.com/germanica-1/Biometric-Attendance)  
+- 🔭 I’m currently working on [Secure Entry, Notification, and Tracking System (S.E.N.T)](https://github.com/germanica-1/face-embedding-api)  
   <br />
 
 - 👀 I’m interested in **programming and exploring different ways to maximize workflow.**  
