@@ -74,9 +74,9 @@
 <h3 align="left">Github Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=germanica-1&show_icons=true&theme=dark&locale=en&layout=compact&cache_seconds=500" width="330" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=germanica-1&show_icons=true&theme=dark&locale=en&layout=compact&cache_seconds=300" width="330" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=germanica-1&theme=dark&cache_seconds=500" width="330" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=germanica-1&theme=dark&cache_seconds=300" width="330" />
 </p>
 
 <p align="center">
