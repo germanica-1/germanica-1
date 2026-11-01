@@ -2,7 +2,7 @@
 
 <h3 align="center">About Me</h3>
 
-- 🔭 I’m currently working on [Secure Entry, Notification, and Tracking System (S.E.N.T)](https://github.com/germanica-1/face-embedding-api)  
+- 🔭 I’m currently working on [PAWI - a student-focused application that works with Canvas LMS to present supported academic information in a more structured, accessible workspace. It brings courses, assignments, deadlines, and announcements together in one place.](https://www.pawii.me/)  
   <br />
 
 - 👀 I’m interested in **programming and exploring different ways to maximize workflow.**  
